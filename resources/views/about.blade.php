@@ -4,12 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Halaman Home</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Halaman About</title>
 </head>
 <body>
-    <a href="/">Halaman Home</a>
-    <a href="/about">Halaman About</a>
-    <h1>Halaman Home</h1>
+    <h1>Halaman About</h1>
 </body>
 </html>
