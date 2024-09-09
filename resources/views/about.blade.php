@@ -7,6 +7,10 @@
     <title>Halaman About</title>
 </head>
 <body>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+    
     <h1>Halaman About</h1>
 </body>
 </html>

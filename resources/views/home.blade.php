@@ -10,6 +10,8 @@
 <body>
     <a href="/">Halaman Home</a>
     <a href="/about">Halaman About</a>
+    <a href="/contact">Halaman Contact</a>
+    
     <h1>Halaman Home</h1>
 </body>
 </html>
